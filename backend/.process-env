@@ -1,0 +1,12 @@
+  PROCESS A SUIVRE POUR POUVOIR UTILISER L API
+  
+  1 - Renommer ce fichier en .env
+
+  2 - Remplacer les valeurs par celles transmissent 
+
+DB_PORT=PORT
+DB_HOST=HOST
+DB_USER=USER
+DB_PASS=PASSWORD
+DB_NAME= DATABASE
+JWT_KEY=TOKEN
